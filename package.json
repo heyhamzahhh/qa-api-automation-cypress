@@ -1,0 +1,11 @@
+{
+  "name": "qa-api-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0",
+    "ajv": "^8.0.0"
+  }
+}
