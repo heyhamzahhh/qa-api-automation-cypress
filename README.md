@@ -6,6 +6,24 @@ API automation framework using Cypress with:
 - Negative testing
 - Performance checks
 
-## Setup
+---
+
+## 🚀 Setup Instructions
+
+1. Clone repo:
+```
+git clone <your-repo-link>
+cd qa-api-automation
+```
+
+2. Install dependencies:
+```
 npm install
+```
+
+3. Run tests:
+```
 npx cypress open
+```
+
+---
